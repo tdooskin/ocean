@@ -1,0 +1,65 @@
+
+  "meta" : {
+    "view" : {
+      "id" : "tnwc-mx3q",
+      "name" : "Parcel Counts By Type By Municipality: Beginning Roll Year 2000",
+      "assetType" : "dataset",
+      "attribution" : "Office of Tax Policy Analysis",
+      "attributionLink" : "http://www.tax.ny.gov/pubs_and_bulls/orpts/publications/reports_annual.htm",
+      "averageRating" : 0,
+      "category" : "Government & Finance",
+      "createdAt" : 1361920319,
+      "description" : "The Department of Taxation and Finance annually produces a report pertaining to the distribution of parcels by property class.  The data analysis involves a breakdown of property classes to nine segments of broad use, namely Agricultural, Residential, Vacant Land/Farm, Commercial, Recreation, Community Service, Industrial, Public Service, and Forest/Conservation. For more information please go to:  http://www.tax.ny.gov/research/property/default.htm",
+      "displayType" : "table",
+      "downloadCount" : 1811,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 37237150,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1621967791,
+      "publicationGroup" : 701837,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1621967790,
+      "rowsUpdatedBy" : "28jg-4c4u",
+      "tableId" : 18330236,
+      "totalTimesRated" : 0,
+      "viewCount" : 3680,
+      "viewLastModified" : 1621971612,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1548716425,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 3660026,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1548716425,
+        "workflowId" : 2254,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "xzik-pf59",
+          "displayName" : "NY Open Data"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }
+    ]
+  }
+}
