@@ -1,0 +1,504 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "isev-msr7",
+      "name" : "Debt Service Coverage Ratio",
+      "assetType" : "dataset",
+      "attribution" : "Austin Energy",
+      "attributionLink" : "https://austinenergy.com/ae/about/reports-and-data-library/corporate-reports",
+      "averageRating" : 0,
+      "category" : "Utilities and City Services",
+      "createdAt" : 1474305810,
+      "description" : "Debt Service Coverage Ratio is a measure of the cash flow available to pay current debt payments. View our debt-to-equity ratio, debt service coverage ratio, and more starting from fiscal year 2005. Go to http://austinenergy.com/go/corporatereports to learn more.",
+      "displayType" : "table",
+      "downloadCount" : 1653,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "iconUrl" : "fileId:4deb4ef5-12c8-4037-849c-5341d0b2966d",
+      "indexUpdatedAt" : 1517012109,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 25813174,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1492529533,
+      "publicationGroup" : 13167148,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1492529527,
+      "rowsUpdatedBy" : "c433-zrb5",
+      "tableId" : 14154496,
+      "totalTimesRated" : 0,
+      "viewCount" : 553,
+      "viewLastModified" : 1618438336,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1492529533,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 676537,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1492529533,
+        "workflowId" : 2020,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "r8dd-7d73",
+          "displayName" : "Austin Energy"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 298484934,
+        "name" : "Fiscal Year",
+        "dataTypeName" : "number",
+        "description" : "Data for Fiscal Year 2016 is unaudited. ",
+        "fieldName" : "fiscal_year",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 38429718,
+        "width" : 62,
+        "cachedContents" : {
+          "largest" : "2016",
+          "non_null" : 12,
+          "average" : "2010.5",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2005",
+            "count" : 20
+          }, {
+            "item" : "2006",
+            "count" : 19
+          }, {
+            "item" : "2007",
+            "count" : 18
+          }, {
+            "item" : "2008",
+            "count" : 17
+          }, {
+            "item" : "2009",
+            "count" : 16
+          }, {
+            "item" : "2010",
+            "count" : 15
+          }, {
+            "item" : "2011",
+            "count" : 14
+          }, {
+            "item" : "2012",
+            "count" : 13
+          }, {
+            "item" : "2013",
+            "count" : 12
+          }, {
+            "item" : "2014",
+            "count" : 11
+          }, {
+            "item" : "2015",
+            "count" : 10
+          }, {
+            "item" : "2016",
+            "count" : 9
+          } ],
+          "smallest" : "2005",
+          "sum" : "24126"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 298484935,
+        "name" : "Debt-to-Capital Ratio",
+        "dataTypeName" : "number",
+        "fieldName" : "debt_to_equity",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 38429719,
+        "width" : 142,
+        "cachedContents" : {
+          "largest" : "51.30",
+          "non_null" : 12,
+          "average" : "47.625",
+          "null" : 0,
+          "top" : [ {
+            "item" : "51.30",
+            "count" : 20
+          }, {
+            "item" : "49.10",
+            "count" : 19
+          }, {
+            "item" : "47.60",
+            "count" : 18
+          }, {
+            "item" : "47.80",
+            "count" : 17
+          }, {
+            "item" : "48.10",
+            "count" : 16
+          }, {
+            "item" : "48.60",
+            "count" : 15
+          }, {
+            "item" : "48.20",
+            "count" : 14
+          }, {
+            "item" : "47.00",
+            "count" : 13
+          }, {
+            "item" : "46.00",
+            "count" : 12
+          }, {
+            "item" : "44.20",
+            "count" : 11
+          } ],
+          "smallest" : "44.20",
+          "sum" : "571.50"
+        },
+        "format" : {
+          "percentScale" : "100",
+          "precisionStyle" : "percentage",
+          "view" : "percent_bar_and_text",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 298484936,
+        "name" : "Debt Service Coverage Ratio",
+        "dataTypeName" : "number",
+        "fieldName" : "debt_service_coverage",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 38429720,
+        "width" : 192,
+        "cachedContents" : {
+          "largest" : "3.56",
+          "non_null" : 12,
+          "average" : "2.454166666666667",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2.39",
+            "count" : 20
+          }, {
+            "item" : "2.96",
+            "count" : 19
+          }, {
+            "item" : "2.32",
+            "count" : 18
+          }, {
+            "item" : "2.93",
+            "count" : 17
+          }, {
+            "item" : "1.91",
+            "count" : 16
+          }, {
+            "item" : "1.77",
+            "count" : 15
+          }, {
+            "item" : "2.04",
+            "count" : 14
+          }, {
+            "item" : "2.01",
+            "count" : 13
+          }, {
+            "item" : "2.09",
+            "count" : 12
+          }, {
+            "item" : "2.42",
+            "count" : 11
+          }, {
+            "item" : "3.56",
+            "count" : 10
+          }, {
+            "item" : "3.05",
+            "count" : 9
+          } ],
+          "smallest" : "1.77",
+          "sum" : "29.45"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 298484999,
+        "name" : "Revenue Bonds",
+        "dataTypeName" : "number",
+        "fieldName" : "revenue_bonds_millions",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 38429721,
+        "width" : 151,
+        "cachedContents" : {
+          "largest" : "1410643000",
+          "non_null" : 12,
+          "average" : "1269023166.666667",
+          "null" : 0,
+          "top" : [ {
+            "item" : "1176510000",
+            "count" : 20
+          }, {
+            "item" : "1260170000",
+            "count" : 19
+          }, {
+            "item" : "1167300000",
+            "count" : 18
+          }, {
+            "item" : "1308140000",
+            "count" : 17
+          }, {
+            "item" : "1236140000",
+            "count" : 16
+          }, {
+            "item" : "1326280000",
+            "count" : 15
+          }, {
+            "item" : "1256100000",
+            "count" : 14
+          }, {
+            "item" : "1185690000",
+            "count" : 13
+          }, {
+            "item" : "1309729000",
+            "count" : 12
+          }, {
+            "item" : "1252386000",
+            "count" : 11
+          }, {
+            "item" : "1410643000",
+            "count" : 10
+          }, {
+            "item" : "1339190000",
+            "count" : 9
+          } ],
+          "smallest" : "1167300000",
+          "sum" : "15228278000"
+        },
+        "format" : {
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      }, {
+        "id" : 298485000,
+        "name" : "Commercial Paper",
+        "dataTypeName" : "number",
+        "fieldName" : "commercial_paper_millions",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 38429722,
+        "width" : 167,
+        "cachedContents" : {
+          "largest" : "225260000",
+          "non_null" : 12,
+          "average" : "114615750",
+          "null" : 0,
+          "top" : [ {
+            "item" : "157480000",
+            "count" : 20
+          }, {
+            "item" : "54330000",
+            "count" : 19
+          }, {
+            "item" : "149940000",
+            "count" : 18
+          }, {
+            "item" : "35150000",
+            "count" : 17
+          }, {
+            "item" : "140710000",
+            "count" : 16
+          }, {
+            "item" : "85150000",
+            "count" : 15
+          }, {
+            "item" : "152580000",
+            "count" : 14
+          }, {
+            "item" : "225260000",
+            "count" : 13
+          }, {
+            "item" : "88541000",
+            "count" : 12
+          }, {
+            "item" : "166456000",
+            "count" : 11
+          }, {
+            "item" : "32046000",
+            "count" : 10
+          }, {
+            "item" : "87746000",
+            "count" : 9
+          } ],
+          "smallest" : "32046000",
+          "sum" : "1375389000"
+        },
+        "format" : {
+          "humane" : "false",
+          "currency" : "USD",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "fiscal_year",
+            "ascending" : true
+          } ]
+        },
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "City of Austin" : {
+            "Department " : "Austin Energy"
+          },
+          "Digital Object Identifer (DOI)" : {
+            "DOI Number" : "https://doi.org/10.26000/040.000055"
+          },
+          "Additional Information" : {
+            "Frequency" : "Annually"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "Row",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "r8dd-7d73",
+        "displayName" : "Austin Energy",
+        "profileImageUrlLarge" : "/api/users/r8dd-7d73/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/r8dd-7d73/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/r8dd-7d73/profile_images/TINY",
+        "screenName" : "Austin Energy",
+        "type" : "interactive"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 298484934,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "r8dd-7d73",
+        "displayName" : "Austin Energy",
+        "profileImageUrlLarge" : "/api/users/r8dd-7d73/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/r8dd-7d73/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/r8dd-7d73/profile_images/TINY",
+        "screenName" : "Austin Energy",
+        "type" : "interactive"
+      },
+      "tags" : [ "debt service", "finance", "austin energy", "utilities", "bond ratings", "equity", "debt" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-grw6-5xtp.b7me", "00000000-0000-0000-9469-2A8507FBAA5C", 0, 1555626722, null, 1555626722, null, "{ }", "2005", "51.30", "2.39", "1176510000", "157480000" ]
+, [ "row-kstu~9gb7~5rbj", "00000000-0000-0000-BA49-FAD4C7334581", 0, 1555626722, null, 1555626722, null, "{ }", "2006", "49.10", "2.96", "1260170000", "54330000" ]
+, [ "row-yenx.a9g4_fysa", "00000000-0000-0000-EB7F-A44CD36611DE", 0, 1555626722, null, 1555626722, null, "{ }", "2007", "47.60", "2.32", "1167300000", "149940000" ]
+, [ "row-r7hc_yqhh-pd4e", "00000000-0000-0000-6848-907923815E81", 0, 1555626722, null, 1555626722, null, "{ }", "2008", "47.80", "2.93", "1308140000", "35150000" ]
+, [ "row-dgx9.s9ar~h37y", "00000000-0000-0000-CDF4-989BFE53EE68", 0, 1555626722, null, 1555626722, null, "{ }", "2009", "48.10", "1.91", "1236140000", "140710000" ]
+, [ "row-rjjs.4f3w.y3wh", "00000000-0000-0000-653C-91FC74EEA1D4", 0, 1555626722, null, 1555626722, null, "{ }", "2010", "48.60", "1.77", "1326280000", "85150000" ]
+, [ "row-sqgg-rh37~gvkt", "00000000-0000-0000-17D2-1A70FA251140", 0, 1555626722, null, 1555626722, null, "{ }", "2011", "47.60", "2.04", "1256100000", "152580000" ]
+, [ "row-yifv-pnk3-izks", "00000000-0000-0000-4393-8F3461742D2A", 0, 1555626722, null, 1555626722, null, "{ }", "2012", "48.20", "2.01", "1185690000", "225260000" ]
+, [ "row-5khg~bzxp_dhqa", "00000000-0000-0000-8562-BCFFC33729B8", 0, 1555626722, null, 1555626722, null, "{ }", "2013", "47.00", "2.09", "1309729000", "88541000" ]
+, [ "row-k7yn.bgkg.ek7x", "00000000-0000-0000-FA95-DD48FB56EB40", 0, 1555626722, null, 1555626722, null, "{ }", "2014", "46.00", "2.42", "1252386000", "166456000" ]
+, [ "row-btne~ikwq.ypc6", "00000000-0000-0000-CF23-1EE859764BC1", 0, 1555626722, null, 1555626722, null, "{ }", "2015", "46.00", "3.56", "1410643000", "32046000" ]
+, [ "row-qbz5-5k45_e4hh", "00000000-0000-0000-365E-0F8FCD7D8C23", 0, 1555626722, null, 1555626722, null, "{ }", "2016", "44.20", "3.05", "1339190000", "87746000" ]
+ ]
+}
